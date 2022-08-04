@@ -1,6 +1,6 @@
 # DNS-over-HTTPS (DOH) provider list
 
-A simple list with public DNS-over-HTTPS (DOH) providers so you can easily block them.
+A simple list with public DNS-over-HTTPS (DOH) providers so you can use them.
 
 The list is based on DNS providers their information pages and [AdGuard DNS Providers](https://kb.adguard.com/en/general/dns-providers) overview.
 
